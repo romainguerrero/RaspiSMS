@@ -38,6 +38,9 @@
 		<!-- International Phone Number, JS and CSS -->
 		<script src="<?php echo HTTP_PWD; ?>js/intlTelInput/intlTelInput.min.js"></script>
 		<link href="<?php echo HTTP_PWD; ?>css/intlTelInput.css" rel="stylesheet">
+		<!-- Jquery DataTable, JS and CSS -->
+		<script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.10.12/af-2.1.2/datatables.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.10.12/af-2.1.2/datatables.min.css"/>
 
 		<!-- Custom JS -->
 		<script src="<?php echo HTTP_PWD; ?>js/custom.js"></script>
