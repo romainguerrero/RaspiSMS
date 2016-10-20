@@ -49,11 +49,11 @@
 								<div class="form-group">
 									<label>Numéros cibles</label>
 									<div class="form-group scheduleds-number-group-container">
-										<div class="form-group scheduleds-number-group">
+										<!-- <div class="form-group scheduleds-number-group">
 											<input name="" class="form-control phone-international-input" type="tel" >
 											<span class="remove-scheduleds-number fa fa-times"></span>
 											<input name="numbers[]" type="hidden" class="phone-hidden-input">
-										</div>
+										</div> -->
 										<div class="add-number-button fa fa-plus-circle"></div>
 									</div>
 								</div>
